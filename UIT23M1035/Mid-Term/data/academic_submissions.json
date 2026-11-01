@@ -1,0 +1,34 @@
+[
+  {
+    "id": "paper_1.txt",
+    "content": "Deep learning architectures have revolutionized natural language processing and image recognition tasks using convolutional neural networks."
+  },
+  {
+    "id": "submission_A.txt",
+    "content": "Deep learning architectures have revolutionized natural language processing tasks using neural networks and convolutional layers."
+  },
+  {
+    "id": "paper_2.txt",
+    "content": "Quantum computing utilizes quantum mechanics principles such as superposition and entanglement to perform complex matrix calculations."
+  },
+  {
+    "id": "submission_B.txt",
+    "content": "Quantum computers use principles of quantum mechanics including superposition and entanglement for solving complex computational problems."
+  },
+  {
+    "id": "paper_3.txt",
+    "content": "Cloud computing provides scalable infrastructure and storage resources that enable organizations to deploy applications efficiently."
+  },
+  {
+    "id": "submission_C.txt",
+    "content": "Cloud computing offers scalable infrastructure and storage services that allow organizations to deploy applications efficiently."
+  },
+  {
+    "id": "paper_4.txt",
+    "content": "Blockchain technology provides a decentralized and secure ledger for recording transactions across a distributed network of computers."
+  },
+  {
+    "id": "submission_D.txt",
+    "content": "Blockchain systems use decentralized secure ledgers to record transactions across distributed computer networks."
+  }
+]

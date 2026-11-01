@@ -1,1 +1,5 @@
 /nlp
+/midterm
+**/midterm/
+__pycache__/
+.DS_Store
